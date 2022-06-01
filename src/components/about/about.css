@@ -17,6 +17,10 @@
     place-items: center;
 }
 
+.btn-primary {
+    max-height: 50px;
+}
+
 .about__me-image {
     border-radius: 2rem;
     overflow: hidden;
@@ -97,7 +101,7 @@
     margin:0 auto 3rem;
 }
 
-.about__card{
+.about__card {
     grid-template-columns: 1fr 1fr;
     gap: 1 rem;
 }

@@ -23,9 +23,9 @@ const About = () => {
 
           <article className='about__card'>
             <FaAward className='about__icon'/>
-            <h5>Experience</h5>
-            <small>General Assembly: Full-Immersive SEI<br /></small>
-            <small>Free Code Camp: Back End Development and API Certification<br /></small>
+            <h4>Experience<br /><br /></h4>
+            <h5> General Assembly:</h5> <small> Software Engineering Immersive Certification <br /></small>
+            <h5> Free Code Camp:</h5> <small> Back End Development and API Certification <br /></small>
           </article>
 
           <article className='about__card'>
