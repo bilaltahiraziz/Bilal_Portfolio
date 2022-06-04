@@ -6,7 +6,7 @@
 
 .about__me {
     width: 100%;
-    aspect-ratio: 1/1;
+    /* aspect-ratio: 1/1; */
     border-radius: linear-gradient(
         45deg,
         transparent,
@@ -15,23 +15,21 @@
     );
     display: grid;
     place-items: center;
-}
-
-.btn-primary {
-    max-height: 50px;
+    max-height: 250px;
+    justify-content: center;
 }
 
 .about__me-image {
     border-radius: 2rem;
-    overflow: hidden;
+    /* overflow: hidden; */
     transform-origin: rotate(10deg);
     transition: var(--transition);
     max-height: 250px;
     max-width: 250px;
 }
 
-.about_me-image:hover {
-    transform: rotate(0);
+.about__me-image:hover {
+    transform: rotate(0deg);
 }
 
 .about__cards {
@@ -55,6 +53,10 @@
     cursor: default;
 }
 
+.btn-primary {
+    max-height: 50px;
+}
+
 .about__icon {
     color: var(--color-primary);
     font-size: 1.4rem;
@@ -68,6 +70,10 @@
 .about__card small {
     font-size: 0.7rem;
     color: var(--color-light);
+}
+
+p {
+    justify-content: center;
 }
 
 .about__content p {
