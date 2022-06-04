@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Bilal_Portfolio/static/css/main.fc246fa2.css",
-    "main.js": "/Bilal_Portfolio/static/js/main.67b44640.js",
-    "static/media/GSD screen.png": "/Bilal_Portfolio/static/media/GSD screen.47c71f7c59dcdc784400.png",
-    "static/media/CV.pdf": "/Bilal_Portfolio/static/media/CV.cfeb64711f1ca2a4c775.pdf",
-    "static/media/Debugger Client.png": "/Bilal_Portfolio/static/media/Debugger Client.c78a83b81289fd62b556.png",
-    "static/media/Unseen Homes screen.png": "/Bilal_Portfolio/static/media/Unseen Homes screen.ce8fbeae871e1deb3ff0.png",
-    "static/media/Tic Tac Screen.png": "/Bilal_Portfolio/static/media/Tic Tac Screen.8b3878a3b09632309202.png",
-    "static/media/Profile Pic 3.jpg": "/Bilal_Portfolio/static/media/Profile Pic 3.dac304979beaf8a12f06.jpg",
-    "static/media/Charlotte M pic.png": "/Bilal_Portfolio/static/media/Charlotte M pic.2efb25b7987a5553e5f9.png",
-    "index.html": "/Bilal_Portfolio/index.html",
-    "main.fc246fa2.css.map": "/Bilal_Portfolio/static/css/main.fc246fa2.css.map",
-    "main.67b44640.js.map": "/Bilal_Portfolio/static/js/main.67b44640.js.map"
+    "main.css": "/static/css/main.fc246fa2.css",
+    "main.js": "/static/js/main.be7d9060.js",
+    "static/media/GSD screen.png": "/static/media/GSD screen.47c71f7c59dcdc784400.png",
+    "static/media/CV.pdf": "/static/media/CV.cfeb64711f1ca2a4c775.pdf",
+    "static/media/Debugger Client.png": "/static/media/Debugger Client.c78a83b81289fd62b556.png",
+    "static/media/Unseen Homes screen.png": "/static/media/Unseen Homes screen.ce8fbeae871e1deb3ff0.png",
+    "static/media/Tic Tac Screen.png": "/static/media/Tic Tac Screen.8b3878a3b09632309202.png",
+    "static/media/Profile Pic 3.jpg": "/static/media/Profile Pic 3.dac304979beaf8a12f06.jpg",
+    "static/media/Charlotte M pic.png": "/static/media/Charlotte M pic.2efb25b7987a5553e5f9.png",
+    "index.html": "/index.html",
+    "main.fc246fa2.css.map": "/static/css/main.fc246fa2.css.map",
+    "main.be7d9060.js.map": "/static/js/main.be7d9060.js.map"
   },
   "entrypoints": [
     "static/css/main.fc246fa2.css",
-    "static/js/main.67b44640.js"
+    "static/js/main.be7d9060.js"
   ]
 }
