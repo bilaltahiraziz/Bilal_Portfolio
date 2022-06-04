@@ -15,7 +15,7 @@ const Footer = () => {
         <li><a href="#experience">Experience</a></li>
         <li><a href="#services">Services</a></li>
         <li><a href="#portfolio">Porfolio</a></li>
-        <li><a href="#testimonial">Testimonials</a></li>
+        <li><a href="#testimonials">Testimonials</a></li>
         <li><a href="#contact">Contact</a></li>
       </ul>
 
@@ -26,7 +26,7 @@ const Footer = () => {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; Bilaltahiraziz. All Rights Reserved</small>
+        <small>&copy; Better Call Bilal. All Rights Reserved</small>
       </div>
     </footer>
   )

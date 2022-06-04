@@ -2,10 +2,24 @@ import React from 'react'
 import './contact.css'
 import { MdOutlineEmail } from 'react-icons/md'
 import { AiOutlinePhone } from 'react-icons/ai'
+import { useRef } from 'react'
+import emailjs from 'emailjs-com'
 // import { TbBrandDiscord } from 'react-icons/tb'
 
 
 const Contact = () => {
+  const form = useRef();
+
+  const sendEmail = (e) => {
+    e.preventDefault();
+
+    emailjs.sendForm('service_bqwb6dy', 'template_qeiddmr', form.current, 'D4G44HTWXPYGZm1m_')
+
+    e.target.reset()
+  };
+
+
+
   return (
     <section id='contact'>
       <h2>Contact Me</h2>
@@ -29,7 +43,7 @@ const Contact = () => {
 
         </div>
 
-        <form action="">
+        <form ref={form} onSubmit={sendEmail}>
           <input type="text" name='name' placeholder='Your Full Name' required />
           <input type="email" name='email' placeholder='Your Email' required />
           <textarea name="message" rows="7" placeholder='Your Message' required></textarea>
