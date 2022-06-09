@@ -17,7 +17,7 @@ const Experience = () => {
           <article className='experience__details-icon'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-              <h4>HTML</h4>
+              <h4>HTML5</h4>
               <small className='text-light'><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/><AiOutlineStar/></small>
               </div>
             </article>
@@ -25,7 +25,7 @@ const Experience = () => {
             <article className='experience__details-icon'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-              <h4>CSS</h4>
+              <h4>CSS3</h4>
               <small className='text-light'><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/><AiOutlineStar/></small>
               </div>
             </article>
@@ -33,7 +33,7 @@ const Experience = () => {
             <article className='experience__details-icon'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>  
-              <h4>JavaScript</h4>
+              <h4>JavaScript ES7</h4>
               <small className='text-light'><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/></small>
               </div>
             </article>
@@ -57,7 +57,7 @@ const Experience = () => {
             <article className='experience__details-icon'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-              <h4>ExpressJS</h4>
+              <h4>JSON</h4>
               <small className='text-light'><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/></small>
               </div>
             </article>
@@ -114,7 +114,7 @@ const Experience = () => {
 <article className='experience__details-icon'>
   <BsPatchCheckFill className='experience__details-icon'/>
   <div>
-  <h4>Django</h4>
+  <h4>ExpressJS</h4>
   <small className='text-light'><AiFillStar/><AiFillStar/><AiFillStar/><AiFillStar/><AiOutlineStar/></small>
   </div>
 </article>

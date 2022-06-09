@@ -16,23 +16,19 @@ const Services = () => {
       <ul className='service__list'>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>Response Designs</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>CSS3</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>SASS</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
-        </li>
-        <li>
-          <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>Bootstrap</p>
         </li>
       </ul>
 
@@ -48,15 +44,11 @@ const Services = () => {
       <ul className='service__list'>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>Testing</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
-        </li>
-        <li>
-          <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>Performance Optimizations</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
@@ -75,29 +67,25 @@ const Services = () => {
 
     <article className='service'>
       <div className='service__head'>
-        <h3>Fullstack</h3>
+        <h3>Databases</h3>
       </div>
 
       <ul className='service__list'>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>MongoDB</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>PostgreSQL</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>MySQL</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
-        </li>
-        <li>
-          <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>NoSQL</p>
         </li>
       </ul>
 
