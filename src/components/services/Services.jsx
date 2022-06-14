@@ -81,7 +81,7 @@ const Services = () => {
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>MySQL</p>
+          <p>SQL</p>
         </li>
         <li>
           <BiCheck className='service__list-icon'/>

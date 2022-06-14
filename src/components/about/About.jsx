@@ -25,13 +25,13 @@ const About = () => {
 
           <article className='about__card'>
             <FaAward className='about__icon'/>
-            <h4>Experience<br /><br /></h4>
-            <h5> General Assembly:</h5> <small> Software Engineering Immersive Certification <br /></small>
+            <h3>Experience<br /></h3>
+            <small> GA Software Engineering Immersive Certification<br /></small>
           </article>
 
           <article className='about__card'>
             <FaUserGraduate className='about__icon'/>
-            <h5>Education</h5>
+            <h3>Education</h3>
             <small>General Assembly Bootcamp <br /></small>
             <small>Southern Illinois University Edwardsville <br /></small>
             <small>Ranken Technical College<br /></small>
@@ -39,8 +39,8 @@ const About = () => {
 
           <article className='about__card'>
             <VscFolderActive className='about__icon'/>
-            <h5>Projects</h5>
-            <small>20+ Completed Projects</small>
+            <h3>Projects</h3>
+            <small>5+ Completed Projects</small>
           </article>
         </div>
       </div>

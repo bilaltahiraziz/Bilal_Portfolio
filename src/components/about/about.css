@@ -55,7 +55,10 @@
 
 .btn-primary {
     max-height: 50px;
+    justify-content: center;
 }
+
+
 
 .about__icon {
     color: var(--color-primary);
@@ -63,7 +66,7 @@
     margin-bottom: 1rem;
 }
 
-.about__card h5 {
+.about__card {
     font-size: 0.95rem;
 }
 
