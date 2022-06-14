@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Bilal_Portfolionpm/static/css/main.92d72d44.css",
-    "main.js": "/Bilal_Portfolionpm/static/js/main.0f25e9e0.js",
-    "static/media/GSD screen.png": "/Bilal_Portfolionpm/static/media/GSD screen.47c71f7c59dcdc784400.png",
-    "static/media/Profile Pic 3.png": "/Bilal_Portfolionpm/static/media/Profile Pic 3.0e64635229e45feb3bcb.png",
-    "static/media/Bilal Aziz RESUME JUNE 22.pdf": "/Bilal_Portfolionpm/static/media/Bilal Aziz RESUME JUNE 22.9fc5765f607ffb2f5e74.pdf",
-    "static/media/Debugger Client.png": "/Bilal_Portfolionpm/static/media/Debugger Client.c78a83b81289fd62b556.png",
-    "static/media/Unseen Homes screen.png": "/Bilal_Portfolionpm/static/media/Unseen Homes screen.ce8fbeae871e1deb3ff0.png",
-    "static/media/Tic Tac Screen.png": "/Bilal_Portfolionpm/static/media/Tic Tac Screen.8b3878a3b09632309202.png",
-    "static/media/Charlotte M pic.png": "/Bilal_Portfolionpm/static/media/Charlotte M pic.2efb25b7987a5553e5f9.png",
-    "index.html": "/Bilal_Portfolionpm/index.html",
-    "main.92d72d44.css.map": "/Bilal_Portfolionpm/static/css/main.92d72d44.css.map",
-    "main.0f25e9e0.js.map": "/Bilal_Portfolionpm/static/js/main.0f25e9e0.js.map"
+    "main.css": "/Bilal_Portfolio/static/css/main.92d72d44.css",
+    "main.js": "/Bilal_Portfolio/static/js/main.acb67476.js",
+    "static/media/GSD screen.png": "/Bilal_Portfolio/static/media/GSD screen.47c71f7c59dcdc784400.png",
+    "static/media/Profile Pic 3.png": "/Bilal_Portfolio/static/media/Profile Pic 3.0e64635229e45feb3bcb.png",
+    "static/media/Bilal Aziz RESUME JUNE 22.pdf": "/Bilal_Portfolio/static/media/Bilal Aziz RESUME JUNE 22.9fc5765f607ffb2f5e74.pdf",
+    "static/media/Debugger Client.png": "/Bilal_Portfolio/static/media/Debugger Client.c78a83b81289fd62b556.png",
+    "static/media/Unseen Homes screen.png": "/Bilal_Portfolio/static/media/Unseen Homes screen.ce8fbeae871e1deb3ff0.png",
+    "static/media/Tic Tac Screen.png": "/Bilal_Portfolio/static/media/Tic Tac Screen.8b3878a3b09632309202.png",
+    "static/media/Charlotte M pic.png": "/Bilal_Portfolio/static/media/Charlotte M pic.2efb25b7987a5553e5f9.png",
+    "index.html": "/Bilal_Portfolio/index.html",
+    "main.92d72d44.css.map": "/Bilal_Portfolio/static/css/main.92d72d44.css.map",
+    "main.acb67476.js.map": "/Bilal_Portfolio/static/js/main.acb67476.js.map"
   },
   "entrypoints": [
     "static/css/main.92d72d44.css",
-    "static/js/main.0f25e9e0.js"
+    "static/js/main.acb67476.js"
   ]
 }
