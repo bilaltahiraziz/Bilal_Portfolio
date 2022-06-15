@@ -52,12 +52,12 @@ const Services = () => {
         </li>
         <li>
           <BiCheck className='service__list-icon'/>
-          <p>TESTING</p>
+          <p>API</p>
         </li>
-        <li>
+        {/* <li>
           <BiCheck className='service__list-icon'/>
           <p>TESTING</p>
-        </li>
+        </li> */}
       </ul>
 
 
