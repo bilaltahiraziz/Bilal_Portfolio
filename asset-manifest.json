@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Bilal_Portfolio/static/css/main.92d72d44.css",
-    "main.js": "/Bilal_Portfolio/static/js/main.099dbdb6.js",
+    "main.js": "/Bilal_Portfolio/static/js/main.737decba.js",
     "static/media/GSD screen.png": "/Bilal_Portfolio/static/media/GSD screen.47c71f7c59dcdc784400.png",
     "static/media/Profile Pic 3.png": "/Bilal_Portfolio/static/media/Profile Pic 3.0e64635229e45feb3bcb.png",
-    "static/media/Bilal Aziz RESUME.pdf": "/Bilal_Portfolio/static/media/Bilal Aziz RESUME.ec2a5bd5c49780cac642.pdf",
+    "static/media/Bilal Aziz RESUME.pdf": "/Bilal_Portfolio/static/media/Bilal Aziz RESUME.5dee2a76edd177533501.pdf",
     "static/media/Debugger Client.png": "/Bilal_Portfolio/static/media/Debugger Client.c78a83b81289fd62b556.png",
     "static/media/Unseen Homes screen.png": "/Bilal_Portfolio/static/media/Unseen Homes screen.ce8fbeae871e1deb3ff0.png",
     "static/media/Tic Tac Screen.png": "/Bilal_Portfolio/static/media/Tic Tac Screen.8b3878a3b09632309202.png",
     "static/media/Charlotte M pic.png": "/Bilal_Portfolio/static/media/Charlotte M pic.2efb25b7987a5553e5f9.png",
     "index.html": "/Bilal_Portfolio/index.html",
     "main.92d72d44.css.map": "/Bilal_Portfolio/static/css/main.92d72d44.css.map",
-    "main.099dbdb6.js.map": "/Bilal_Portfolio/static/js/main.099dbdb6.js.map"
+    "main.737decba.js.map": "/Bilal_Portfolio/static/js/main.737decba.js.map"
   },
   "entrypoints": [
     "static/css/main.92d72d44.css",
-    "static/js/main.099dbdb6.js"
+    "static/js/main.737decba.js"
   ]
 }
